@@ -51,6 +51,7 @@ h1{
     color: #555;
     font-weight: 700;
     font-size: .4em;
+    margin: 0px;
 }
 
 #data{
@@ -58,6 +59,7 @@ h1{
     font-weight: 100;
     font-size: 5px;
     margin-bottom: 20px;
+    margin-top: 0px;
 }
 
 .logo{
@@ -67,9 +69,49 @@ h1{
 
 hr{
     color: #555;
+    margin-bottom: 20px;
 }
 
+main{
+    width: 425px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
+p{
+    color: #555;
+    font-size: .8em;
+    line-height: 1.5em;
+    margin: 10px 0px;
+}
+
+.link{
+    text-decoration: none;
+    color: rgb(255, 155, 0);
+    font-size: .7em;
+    font-weight: bold;
+}
+
+img{
+    width: 425px;
+    margin-top: 20px;
+}
+
+.legenda{
+    color: #555;
+    font-size: .4em;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+span{
+    color: #555;
+    font-size: .8em;
+}
+
+h2{
+    margin: 20px 0px;
+}
 
 
 
