@@ -17,7 +17,6 @@ html, body{
 }
 
 #top-bar{
-    height: px;
     background-color: #333;
     color: white;
     font-weight: bold;
@@ -68,4 +67,35 @@ h1{
 
 hr{
     color: #555;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#footer{
+    background-color: #333;
+    height: 40px;
 }
